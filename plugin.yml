@@ -1,0 +1,4 @@
+name: BukkitCraftIM
+
+main: com.bukkit.grrbrr.CraftIM.CraftIM
+version: 0.2
