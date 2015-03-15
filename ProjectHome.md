@@ -1,0 +1,1 @@
+Backbone server plugin to make minecraft chat available for android app CraftIM. Soon(tm) in Market :P
